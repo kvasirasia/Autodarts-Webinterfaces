@@ -21,4 +21,4 @@ The following third-party software is referenced in this project:
 
 Any third-party components contained in, referenced by, or distributed with this repository remain subject to their own respective license terms.
 
-The restrictions defined in the LICENSE file of this repository apply only to the original parts of this project created by Peter Rottmann, unless otherwise required by the applicable license of a third-party component.
+The restrictions defined in the LICENSE file of this repository apply only to the original parts of this project, unless otherwise required by the applicable license of a third-party component.
