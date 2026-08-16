@@ -313,7 +313,7 @@ Bitte beachte, dass für Drittsoftware ausschließlich deren jeweilige Lizenzbed
 
 ### Copyright und Nutzungsbeschränkung
 
-**Copyright (c) 2026 Peter Rottmann**
+****
 
 Soweit nicht anders angegeben, beziehen sich die folgenden Nutzungsbeschränkungen ausschließlich auf die von mir erstellten Projektbestandteile.
 
